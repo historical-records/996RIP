@@ -2,7 +2,7 @@
 
 ## 上海
 
-### [拼多多](https://www.pinduoduo.com//)
+### [拼多多](https://www.pinduoduo.com/)
   
 曝光/施行时间：**2019/02**
     
@@ -16,3 +16,16 @@
      [如何看待拼多多员工猝死?](https://www.zhihu.com/question/437727126)
      
      [拼多多通报员工猝死事件！知乎隔空回应 官方已介入](https://baijiahao.baidu.com/s?id=1688005399235970675&wfr=spider&for=pc)
+     
+     
+### [普道科技](https://www.paat.com/)
+  
+曝光/施行时间：**2020/08**
+    
+制度描述：**晚上11点,早上10点,一周6天,有的组一周7天，不让请事假病假，周六加班请假有惩罚**
+
+证据内容：**[知乎](https://www.zhihu.com/question/303129920/answer/576465096)**
+        **[群聊不让请假](https://i.loli.net/2020/08/14/XncgmSvibza7ITw.jpg)**
+        **[群聊请假惩罚1](https://i.loli.net/2020/08/14/YoUMTQfc78rq6ZD.jpg)**
+        **[群聊请假惩罚2](https://i.loli.net/2020/08/14/BlzhiJEYxpMLauU.jpg)**
+
