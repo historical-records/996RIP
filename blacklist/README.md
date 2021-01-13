@@ -25,9 +25,9 @@
     
 制度描述：**晚上11点,早上10点,一周6天,有的组一周7天，不让请事假病假，周六加班请假有惩罚**
 
-证据内容：**[知乎](https://www.zhihu.com/question/303129920/answer/576465096)**
-        **[群聊不让请假](https://i.loli.net/2020/08/14/XncgmSvibza7ITw.jpg)**
-        **[群聊请假惩罚1](https://i.loli.net/2020/08/14/YoUMTQfc78rq6ZD.jpg)**
+证据内容：**[知乎](https://www.zhihu.com/question/303129920/answer/576465096)**，
+        **[群聊不让请假](https://i.loli.net/2020/08/14/XncgmSvibza7ITw.jpg)**，
+        **[群聊请假惩罚1](https://i.loli.net/2020/08/14/YoUMTQfc78rq6ZD.jpg)**，
         **[群聊请假惩罚2](https://i.loli.net/2020/08/14/BlzhiJEYxpMLauU.jpg)**
         
 
