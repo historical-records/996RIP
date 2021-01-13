@@ -28,4 +28,22 @@
         **[群聊不让请假](https://i.loli.net/2020/08/14/XncgmSvibza7ITw.jpg)**
         **[群聊请假惩罚1](https://i.loli.net/2020/08/14/YoUMTQfc78rq6ZD.jpg)**
         **[群聊请假惩罚2](https://i.loli.net/2020/08/14/BlzhiJEYxpMLauU.jpg)**
+        
+
+### [游族网络](https://www.youzu.com/)
+  
+曝光/施行时间：**2018/03**
+    
+制度描述：**996**
+
+证据内容：**[你为什么从游族离职?-知乎](https://www.zhihu.com/question/22411680?sort=created)**
+
+
+### [蝴蝶互动](http://hoodinn.hgame.com/default/index)
+  
+曝光/施行时间：**2019/02**
+    
+制度描述：**996**
+
+证据内容：**~~[知乎：如何评价蝴蝶互动？](https://www.zhihu.com/question/40858342/answer/616999472)~~**（知乎上该条回答被删除了，问题还在）
 
