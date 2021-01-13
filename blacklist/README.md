@@ -48,6 +48,10 @@
      
      [拼多多通报员工猝死事件！知乎隔空回应 官方已介入](https://baijiahao.baidu.com/s?id=1688005399235970675&wfr=spider&for=pc)
      
+   * #### 拼多多一员工跳楼 2021/01/09 12:30
+   
+     [如何看待拼多多通报一员工跳楼事件？](https://www.zhihu.com/question/438613827)
+     
      
 ### [普道科技](https://www.paat.com/)
   
