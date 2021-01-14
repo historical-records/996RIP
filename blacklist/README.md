@@ -63,6 +63,14 @@
 **[群聊请假惩罚 1](https://i.loli.net/2020/08/14/YoUMTQfc78rq6ZD.jpg)**,
 **[群聊请假惩罚 2](https://i.loli.net/2020/08/14/BlzhiJEYxpMLauU.jpg)**
 
+#### [上海鱼泡泡信息科技有限公司](https://www.yupaopao.com//)
+
+曝光/施行时间：**2018/12**
+
+制度描述：**996**
+
+证据内容：**[脉脉](https://maimai.cn/web/gossip_detail?encode_id=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MjA4NjEwNjcsImlhdCI6MTU1NDk1MDU0OX0.Hd0uP3y9GMnN1OA8fhV0xvCQKT-GBQ33BzUmT1CCavk)**
+
 #### [游族网络](https://www.youzu.com/)
 
 曝光/施行时间：**2018/03**
@@ -440,6 +448,15 @@
 
 证据内容：**[百度口碑](https://koubei.baidu.com/s/xt.dhcc.com.cn?from=ps_pc1)**
 
+#### [信美人寿相互保险社](https://www.trustlife.com/)
+
+曝光/施行时间：**2019**
+
+制度描述：**996**
+
+证据内容：**[看准网](https://www.kanzhun.com/gsr5723919.html?ka=com-blocker1-review)**,
+**[看准网](https://www.kanzhun.com/gsr6603074.html?ka=com1-review)**
+
 ### 深圳
 
 #### [广东虚拟现实科技有限公司(Ximmerse)](https://www.ximmerse.com/)
@@ -462,3 +479,34 @@
 证据内容：**[图片-1](img/成都二次元动漫有限公司1.jpg)**,
 **[图片-2](img/成都二次元动漫有限公司2.jpg)**,
 **[图片-3](img/成都二次元动漫有限公司3.jpg)**
+
+### 天津
+
+#### [易思维(杭州/天津)科技有限公司](http://www.tjisv.com/)
+
+曝光/施行时间：**2019/04**
+
+制度描述：**996**
+
+证据内容：**[看准网](https://www.kanzhun.com/pl6228054.html)**
+
+### 长沙
+
+#### [湖南创发科技有限公司](http://www.transfar.com/)
+
+曝光/施行时间：**2019/03**
+
+制度描述：**996**
+
+证据内容：**[看准网](https://www.kanzhun.com/gso238619.html?ka=com1-title)**,
+**[博客园](http://www.cnblogs.com/rawman/p/3401579.html)**
+
+### 珠海
+
+#### [金山软件](http://www.kingsoft.com/)
+
+曝光/施行时间：**2017/07/12**
+
+制度描述：**996/9106**
+
+证据内容：**[图片](img/金山软件-9106.png)**
