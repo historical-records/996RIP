@@ -36,8 +36,8 @@
 
 制度描述：**11116、两班倒**
 
-证据内容：**[是谁在背后支持 996？拼多多两起员工事件给我们什么启示](https://new.qq.com/omn/20210112/20210112A0GA9200.html)**，
-**[前拼多多员工发布《我在拼多多的三年》一文，看完后感受如何？](https://www.zhihu.com/question/439063737)**，
+证据内容：**[是谁在背后支持 996？拼多多两起员工事件给我们什么启示](https://new.qq.com/omn/20210112/20210112A0GA9200.html)**,
+**[前拼多多员工发布《我在拼多多的三年》一文，看完后感受如何？](https://www.zhihu.com/question/439063737)**,
 **[因为看到同事被抬上救护车我被拼多多开除了](https://www.bilibili.com/video/BV1iT4y1N7AU)**
 
 其它：
@@ -58,9 +58,9 @@
 
 制度描述：**晚上 11 点,早上 10 点,一周 6 天,有的组一周 7 天，不让请事假病假，周六加班请假有惩罚**
 
-证据内容：**[知乎](https://www.zhihu.com/question/303129920/answer/576465096)**，
-**[群聊不让请假](https://i.loli.net/2020/08/14/XncgmSvibza7ITw.jpg)**，
-**[群聊请假惩罚 1](https://i.loli.net/2020/08/14/YoUMTQfc78rq6ZD.jpg)**，
+证据内容：**[知乎](https://www.zhihu.com/question/303129920/answer/576465096)**,
+**[群聊不让请假](https://i.loli.net/2020/08/14/XncgmSvibza7ITw.jpg)**,
+**[群聊请假惩罚 1](https://i.loli.net/2020/08/14/YoUMTQfc78rq6ZD.jpg)**,
 **[群聊请假惩罚 2](https://i.loli.net/2020/08/14/BlzhiJEYxpMLauU.jpg)**
 
 #### [游族网络](https://www.youzu.com/)
@@ -110,7 +110,7 @@
 
 制度描述：**996 或 997**
 
-证据内容：**[看准网](https://www.kanzhun.com/gsr1879439.html?ka=com-blocker1-review#co_tab)**，
+证据内容：**[看准网](https://www.kanzhun.com/gsr1879439.html?ka=com-blocker1-review#co_tab)**,
 **[知乎](https://www.zhihu.com/question/51930890/answer/128765855)**
 
 #### [德邦物流](https://www.deppon.com/)
@@ -175,8 +175,8 @@
 
 制度描述：**995、裁员**
 
-证据内容：**[Boss 直聘](img/七牛云995.jpg)**，
-**[脉脉](img/七牛云裁员1.jpg)**，
-**[脉脉](img/七牛云裁员2.jpg)**，
-**[脉脉](img/七牛云裁员3.jpg)**，
+证据内容：**[Boss 直聘](img/七牛云995.jpg)**,
+**[脉脉](img/七牛云裁员1.jpg)**,
+**[脉脉](img/七牛云裁员2.jpg)**,
+**[脉脉](img/七牛云裁员3.jpg)**,
 **[看准网](https://www.kanzhun.com/pl7147841.html?ka=comreview-result1)**
