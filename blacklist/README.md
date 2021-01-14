@@ -143,7 +143,7 @@
 
 制度描述：**大小周**
 
-证据内容：**[壹米滴答日历](img/yimidida.jpeg)**
+证据内容：**[壹米滴答日历](img/上海壹米滴答供应链管理有限公司.jpeg)**
 
 #### [金杜律师事务所](https://www.kwm.com/zh/cn)
 
@@ -298,3 +298,28 @@
 制度描述：**996**
 
 证据内容：**[智联招聘](https://jobs.zhaopin.com/CC120702341J00114014810.htm)**
+
+#### [北京游奕互动软件有限公司](http://www.uegame.com/)
+
+曝光/施行时间：**2016/03**
+
+制度描述：**986 加班不给钱的那种，用这个来卡大家项目上线分红**
+
+证据内容：**[打卡记录](img/北京游奕互动软件有限公司.png)**
+
+#### [小米](https://www.mi.com)
+
+曝光/施行时间：**2019/04/07**
+
+制度描述：**10106**
+
+证据内容：**[看准网](https://www.kanzhun.com/gsr347791.html?ka=com-blocker1-review#co_tab)**,
+**[知乎](https://www.zhihu.com/question/270788307/answer/356518575)**
+
+#### [亚信(AsiaInfo)](https://www.asiainfo.com)
+
+曝光/施行时间：**2019/04/07**
+
+制度描述：**996**
+
+证据内容：**[看准网](https://www.kanzhun.com/gsr19887tl56.html?ka=review-label13)**
