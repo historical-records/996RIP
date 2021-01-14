@@ -323,3 +323,111 @@
 制度描述：**996**
 
 证据内容：**[看准网](https://www.kanzhun.com/gsr19887tl56.html?ka=review-label13)**
+
+#### [猎聘网](https://www.liepin.com/)
+
+曝光/施行时间：**2019/04/07**
+
+制度描述：**996**
+
+证据内容：**[看准网](https://www.kanzhun.com/gsr1087027.html?ka=com-blocker1-review#co_tab)**,
+**[知乎](https://www.zhihu.com/question/23950520/answer/135634297)**
+
+#### [百度](https://www.baidu.com/)
+
+曝光/施行时间：**2019/04/07**
+
+制度描述：**996**
+
+证据内容：**[看准网](https://www.kanzhun.com/gsr11514tl56.html?ka=review-label17)**,
+**[知乎](https://www.zhihu.com/question/20489266/answer/15775901)**
+
+#### [便利蜂](https://www.bianlifeng.com/)
+
+曝光/施行时间：**2019/04/07**
+
+制度描述：**10105**
+
+证据内容：**[看准网](https://www.kanzhun.com/gsr6351491tl526.html?ka=review-label8)**
+
+#### [VIPKID](https://www.vipkid.com.cn/)
+
+曝光/施行时间：**2019/04/07**
+
+制度描述：**10106**
+
+证据内容：**[看准网](https://www.kanzhun.com/gsr61692tl56.html?ka=review-label13)**,
+**[知乎](https://www.zhihu.com/question/22560997/answer/60628698)**
+
+#### [天眼查](https://www.tianyancha.com/)
+
+曝光/施行时间：**2019/04/07**
+
+制度描述：**996**
+
+证据内容：**[看准网](https://www.kanzhun.com/gsr5681112tl526.html?ka=review-label4)**
+
+#### [去哪儿网](https://www.qunar.com/)
+
+曝光/施行时间：**2019/04/07**
+
+制度描述：**10106**
+
+证据内容：**[看准网](https://www.kanzhun.com/gsr61692tl56.html?ka=review-label13)**,
+**[知乎](https://www.zhihu.com/question/22560997/answer/60628698)**
+
+#### [云鸟科技](https://www.yunniao.cn/)
+
+曝光/施行时间：**2019/04/07**
+
+制度描述：**996**
+
+证据内容：**[看准网](https://www.kanzhun.com/gsr2477689tl56.html?ka=review-label3)**
+
+#### [iCourt](www.icourt.cc/)
+
+曝光/施行时间：**2019/04/07**
+
+制度描述：**996 or 10116**
+
+证据内容：**[看准网](https://www.kanzhun.com/gsr5731719tl526.html?ka=review-label5)**
+
+#### [初见科技](www.chujian.com/)
+
+曝光/施行时间：**2019/04/07**
+
+制度描述：**995**
+
+证据内容：**[看准网](https://www.kanzhun.com/gsr2031621.html?ka=com1-review)**
+
+#### [作业帮](https://www.zybang.com/)
+
+曝光/施行时间：**2019/04/07**
+
+制度描述：**大小周**
+
+证据内容：**[看准网](https://www.kanzhun.com/pl6288762.html)**
+
+#### [数美科技](https://www.ishumei.com/)
+
+曝光/施行时间：**2019/04/08**
+
+制度描述：**大小周，加班**
+
+证据内容：**[知乎](https://www.zhihu.com/question/290696102)**
+
+#### [快方送药](http://www.kfyao.com/)
+
+曝光/施行时间：**-**
+
+制度描述：**996**
+
+证据内容：**[看准网](https://www.kanzhun.com/pl5675303.html)**
+
+#### [快陪练](https://www.kuaipeilian.com)
+
+曝光/施行时间：**2019/04/08**
+
+制度描述：**996**
+
+证据内容：**[发言为其招聘经理](https://pic.superbed.cn/item/5cad617f3a213b0417f7cc2a)**
