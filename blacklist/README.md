@@ -248,3 +248,53 @@
 制度描述：**007/996**
 
 证据内容：**[app 更新记录,大肆鼓吹 996](img/每日优鲜鼓吹996.png)**
+
+#### [字节跳动](https://bytedance.com)
+
+曝光/施行时间：**2017/07**
+
+制度描述：**996**
+
+证据内容：**[看准网 1](https://www.kanzhun.com/gsr5622411tl56.html)**,
+**[看准网 2](https://www.kanzhun.com/pl6583181.html)**,
+**[搜狐](https://www.sohu.com/a/256795805_231667)**
+
+#### [用友](http://www.yonyou.com/)
+
+曝光/施行时间：**2018/12**
+
+制度描述：**997**
+
+证据内容：**[在用友工作是怎样一番体验？ - 知乎](https://www.zhihu.com/question/26683235)**
+
+#### [神策数据](https://www.sensorsdata.cn/)
+
+曝光/施行时间：**2019/03**
+
+制度描述：**大小周**
+
+证据内容：**[看准网](https://www.kanzhun.com/pl6409927.html)**
+
+#### [中软国际](http://www.chinasofti.com/)
+
+曝光/施行时间：**2019/03**
+
+制度描述：**996**
+
+证据内容：**[智联招聘](https://jobs.zhaopin.com/CC508620126J00303154805.htm)**
+
+#### [柯莱特](http://www.camelotchina.com/)
+
+曝光/施行时间：**2019/03**
+
+制度描述：**996**
+
+证据内容：**[智联招聘](https://jobs.zhaopin.com/CC120179637J00117070515.htm)**
+
+#### [高伟达](http://www.git.com.cn/)
+
+曝光/施行时间：**2019/03**
+
+制度描述：**996**
+
+证据内容：**[智联招聘](https://jobs.zhaopin.com/CC120702341J00114014810.htm)**
