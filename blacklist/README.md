@@ -95,3 +95,88 @@
 
 证据内容：**[看准网](https://www.kanzhun.com/pl6045694.html)**,
 **[看准网](https://www.kanzhun.com/pl6212987.html)**
+
+#### [依图网络科技有限公司](http://www.yitutech.com/)
+
+曝光/施行时间：**2019/04/05**
+
+制度描述：**996**
+
+证据内容：**[知乎](https://www.zhihu.com/question/300132949/answer/606529193)**
+
+#### [饿了么](https://www.ele.me/)
+
+曝光/施行时间：**2019/04/07**
+
+制度描述：**996 或 997**
+
+证据内容：**[看准网](https://www.kanzhun.com/gsr1879439.html?ka=com-blocker1-review#co_tab)**，
+**[知乎](https://www.zhihu.com/question/51930890/answer/128765855)**
+
+#### [德邦物流](https://www.deppon.com/)
+
+曝光/施行时间：**2019/04/07**
+
+制度描述：**996**
+
+证据内容：**[看准网](https://www.kanzhun.com/gsr16378tl56.html?ka=review-label9)**
+
+#### [兴业数字金融服务](www.cibfintech.com/)
+
+曝光/施行时间：**2019/04/07**
+
+制度描述：**996**
+
+证据内容：**[看准网](https://www.kanzhun.com/gsr6355543tl526.html?ka=review-label4)**
+
+#### [小红书](https://www.xiaohongshu.com/)
+
+曝光/施行时间：**2019/04/07**
+
+制度描述：**1095**
+
+证据内容：**[看准网](https://www.kanzhun.com/gsr1950189.html?ka=com-blocker1-review#co_tab)**
+
+#### [上海壹米滴答供应链管理有限公司](https://www.yimidida.com)
+
+曝光/施行时间：**2019/04/08**
+
+制度描述：**大小周**
+
+证据内容：**[壹米滴答日历](img/yimidida.jpeg)**
+
+#### [金杜律师事务所](https://www.kwm.com/zh/cn)
+
+曝光/施行时间：**2019/04/08**
+
+制度描述：**早 10 晚 6 但基本 9 点以后下班，周末给任务，请假给任务**
+
+证据内容：**[看准网](https://www.kanzhun.com/gsr14366.html)**
+
+#### [上海鱼泡泡信息科技有限公司](https://www.yupaopao.com//)
+
+曝光/施行时间：**2018/12**
+
+制度描述：**996**
+
+证据内容：**[脉脉](https://maimai.cn/web/gossip_detail?encode_id=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MjA4NjEwNjcsImlhdCI6MTU1NDk1MDU0OX0.Hd0uP3y9GMnN1OA8fhV0xvCQKT-GBQ33BzUmT1CCavk)**
+
+#### [掌门一对一教育有限公司](https://www.zhangmen.com/)
+
+曝光/施行时间：**2019/04**
+
+制度描述：**大小周**
+
+证据内容：**[看准网](https://www.kanzhun.com/pl7018849.html)**
+
+#### [七牛云](https://www.qiniu.com/)
+
+曝光/施行时间：**2018/11**
+
+制度描述：**995、裁员**
+
+证据内容：**[Boss 直聘](img/七牛云995.jpg)**，
+**[脉脉](img/七牛云裁员1.jpg)**，
+**[脉脉](img/七牛云裁员2.jpg)**，
+**[脉脉](img/七牛云裁员3.jpg)**，
+**[看准网](https://www.kanzhun.com/pl7147841.html?ka=comreview-result1)**
