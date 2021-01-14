@@ -26,11 +26,11 @@
 - 同公司不同部门规定有可能不同，公司在名单中不代表该公司全部岗位存在该情况，仅供参考。
 - 如果您认为名单中的某公司不应属此列或存在被抹黑的情况，请提 PR 说明情况，核实后将会更正或删除。
 
-# 名单列表
+## 名单列表
 
-## 上海
+### 上海
 
-### [拼多多](https://www.pinduoduo.com/)
+#### [拼多多](https://www.pinduoduo.com/)
 
 曝光/施行时间：**2019/02**
 
@@ -42,17 +42,17 @@
 
 其它：
 
-- #### 拼多多 98 年女员工猝死 2020/12/29 01:30
+- ##### 拼多多 98 年女员工猝死 2020/12/29 01:30
 
   [如何看待拼多多员工猝死?](https://www.zhihu.com/question/437727126)
 
   [拼多多通报员工猝死事件！知乎隔空回应 官方已介入](https://baijiahao.baidu.com/s?id=1688005399235970675&wfr=spider&for=pc)
 
-- #### 拼多多一员工跳楼 2021/01/09 12:30
+- ##### 拼多多一员工跳楼 2021/01/09 12:30
 
   [如何看待拼多多通报一员工跳楼事件？](https://www.zhihu.com/question/438613827)
 
-### [普道科技](https://www.paat.com/)
+#### [普道科技](https://www.paat.com/)
 
 曝光/施行时间：**2020/08**
 
@@ -63,7 +63,7 @@
 **[群聊请假惩罚 1](https://i.loli.net/2020/08/14/YoUMTQfc78rq6ZD.jpg)**，
 **[群聊请假惩罚 2](https://i.loli.net/2020/08/14/BlzhiJEYxpMLauU.jpg)**
 
-### [游族网络](https://www.youzu.com/)
+#### [游族网络](https://www.youzu.com/)
 
 曝光/施行时间：**2018/03**
 
@@ -71,7 +71,7 @@
 
 证据内容：**[你为什么从游族离职?-知乎](https://www.zhihu.com/question/22411680?sort=created)**
 
-### [蝴蝶互动](http://hoodinn.hgame.com/default/index)
+#### [蝴蝶互动](http://hoodinn.hgame.com/default/index)
 
 曝光/施行时间：**2019/02**
 
@@ -79,7 +79,7 @@
 
 证据内容：**~~[知乎：如何评价蝴蝶互动？](https://www.zhihu.com/question/40858342/answer/616999472)~~**（知乎上该条回答被删除了，问题还在）
 
-### [砸立](https://m.eyee.com/)
+#### [砸立](https://m.eyee.com/)
 
 曝光/施行时间：**2019/01**
 
@@ -87,7 +87,7 @@
 
 证据内容：**[看准网](https://www.kanzhun.com/gsr5728610tl526.html?ka=review-label2)**
 
-### [上海联影医疗科技有限公司](https://www.united-imaging.com/cn/home/)
+#### [上海联影医疗科技有限公司](https://www.united-imaging.com/cn/home/)
 
 曝光/施行时间：**2019/04/04**
 
