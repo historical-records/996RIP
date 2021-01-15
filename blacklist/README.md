@@ -523,3 +523,83 @@
 **[图片](img/武汉星云海数字科技股份有限公司2.jpg)**,
 **[图片](img/武汉星云海数字科技股份有限公司3.jpg)**,
 **[看准网](https://www.kanzhun.com/gso5662099.html)**
+
+### 杭州
+
+#### [[阿里巴巴](https://www.alibabagroup.com/)
+
+曝光/施行时间：**2018/06**
+
+制度描述：**996**
+
+证据内容：**[阿里巴巴的 996 加班文化，看到这些恐怖数据，你也会辞职！](https://kuaibao.qq.com/s/20180612A1FAPU00)**,
+**[马云：996 是修来的福报! 律师：涉嫌违法](http://m.sohu.com/a/307564633_241241)**,
+**[马云：后悔忙于工作 没时间陪家人 有来生绝不这样](https://v.qq.com/x/page/h0860wwt0xl.html)**
+
+#### [蚂蚁金服](https://www.antfin.com/)
+
+曝光/施行时间：**2018/11**
+
+制度描述：**9106**
+
+证据内容：**[阿里前员工吐槽：从蚂蚁金服离职了，真的拿员工当蚂蚁使](https://t.cj.sina.com.cn/articles/view/6680234487/18e2c49f700100dq3q)**
+
+#### [有赞](https://www.youzan.com)
+
+曝光/施行时间：**2019/01**
+
+制度描述：**996**
+
+证据内容：**[年会成了“鸿门宴”，这家公司“强制 996”被员工举报](http://www.linkshop.com.cn/web/archives/2019/418163.shtml)**
+
+#### [智贝科技](https://www.zhipin.com/gongsi/09aefd7a9d507c2f1nd82tu9Ew~~.html)
+
+曝光/施行时间：**2019/03**
+
+制度描述：**强制 996、歧视程序员**
+
+证据内容：**[程序员吐槽：薪资低，996 加班无补助，歧视程序员，这 hr 真乃神人](https://baijiahao.baidu.com/s?id=1627625016599313128)**
+
+#### [同花顺](http://www.10jqka.com.cn/)
+
+曝光/施行时间：**2018/12**
+
+制度描述：**大小周、加班**
+
+证据内容：**[看准网](https://www.kanzhun.com/pl6896401.html)**
+
+#### [杭州海康威视数字技术股份有限公司](https://www.hikvision.com/cn/)
+
+曝光/施行时间：**2018**
+
+制度描述：**996**
+
+证据内容：**[看准网](https://www.kanzhun.com/pl6448138.html)**,
+**[知乎](https://www.zhihu.com/question/31379626/answer/399779602)**,
+**[图片](img/杭州海康威视数字技术股份有限公司.png)**
+
+#### [浙江大华技术股份有限公司](https://www.dahuatech.com/)
+
+曝光/施行时间：**2018**
+
+制度描述：**加班**
+
+证据内容：**[职业圈](http://www.7360.cc/Review-80253)**,
+**[看准网](https://www.kanzhun.com/pl6360251.html)**
+
+#### [浙江宇视科技有限公司](http://fenxiao.uniview.com/)
+
+曝光/施行时间：**2018**
+
+制度描述：**大小周加班**
+
+证据内容：**[看准网](https://www.kanzhun.com/gsmsh10805642.html)**,
+**[知乎](https://www.zhihu.com/question/265531337/answer/296562572)**
+
+#### [网易考拉海购](https://www.kaola.com/)
+
+曝光/施行时间：**2019/04/07**
+
+制度描述：**996**
+
+证据内容：**[看准网](https://www.kanzhun.com/gsr5686940tl526.html?ka=review-label14)**
