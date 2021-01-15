@@ -524,6 +524,14 @@
 **[图片](img/武汉星云海数字科技股份有限公司3.jpg)**,
 **[看准网](https://www.kanzhun.com/gso5662099.html)**
 
+#### [武汉斗鱼网络科技有限公司](https://www.douyu.com/)
+
+曝光/施行时间：**2018/09**
+
+制度描述：**每天至少加班两小时，拖欠大量工资，无加班费**
+
+证据内容：**[看准网](https://m.kanzhun.com/pl6708460.html)**
+
 ### 杭州
 
 #### [[阿里巴巴](https://www.alibabagroup.com/)
